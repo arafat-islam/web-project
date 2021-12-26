@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
 }
-@media only screen and (min-width: 768px) {
+
 .table td, .table th {
     padding: 1px 15px;
 }
@@ -35,7 +35,7 @@ body {
     content: '>';
 }
 
-header, footer {
+header, footer, nav {
     max-width: 1140px;
     margin: 0 auto;
 }
@@ -52,6 +52,8 @@ ul li {
 
 footer p {
     text-align: center;
+    color:  white;
 }
 
-}
+
+
